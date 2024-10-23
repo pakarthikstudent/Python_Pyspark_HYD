@@ -1,0 +1,21 @@
+Name,Sex,Age,Cabin,Fare,Survived
+userA,male,45, high,1200,0
+userB,female,35,high,1350,0
+userC,male,44, low,900,1
+userD,female,33,low,950,1
+userE,male,45, high,1200,0
+userF,female,35,high,1350,1
+userG,male,44, low,800,0
+userH,female,33,low,450,1
+userI,male,45, high,1200,0
+userJ,female,35,high,1250,1
+userK,male,44, low,900,0
+userL,female,33,low,950,1
+userM,male,45, high,1200,0
+userN,female,35,high,2450,1
+userO,male,44,,1800,0
+userP,female,52,low,2450,1
+userQ,male,55, low,840,0
+userR,female,43,low,950,1
+userS,male,65, high,1290,0
+userT,female,25,high,1350,1
